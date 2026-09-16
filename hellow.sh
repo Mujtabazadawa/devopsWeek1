@@ -1,1 +1,2 @@
-Hello devops week1
+#!/bin/bash
+echo "Hello devops week1"
